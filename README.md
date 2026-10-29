@@ -1,5 +1,3 @@
-@ -0,0 +1,45 @@
-Magistretus
 Magistretus is an in-development 2D fantasy kingdom-management and city-building game prototype written in C++ with raylib.
 
 The project is a personal programming and game-development portfolio piece. Its main focus is building game systems in C++, organizing code into reusable modules, and iterating on a playable prototype.
