@@ -1,0 +1,26 @@
+# Main Menu
+menu.title=Magistretus
+menu.play=Play
+menu.settings=Settings
+menu.credits=Credits
+menu.exit=Exit
+
+# Save Menu
+save.title=Select Save Slot
+save.slot1=Save Slot 1
+save.slot2=Save Slot 2
+save.slot3=Save Slot 3
+save.slot4=Save Slot 4
+save.empty=Empty
+save.back=Back
+save.day=Day
+
+# Settings
+settings.title=Settings
+settings.language=Language
+settings.english=English
+settings.russian=Russian
+
+# Credits
+credits.title=Credits
+credits.back=Back

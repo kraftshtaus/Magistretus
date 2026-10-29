@@ -1,0 +1,26 @@
+# Главное меню
+menu.title=Magistretus
+menu.play=Играть
+menu.settings=Настройки
+menu.credits=Авторы
+menu.exit=Выход
+
+# Меню сохранений
+save.title=Выберите сохранение
+save.slot1=Сохранение 1
+save.slot2=Сохранение 2
+save.slot3=Сохранение 3
+save.slot4=Сохранение 4
+save.empty=Пусто
+save.back=Назад
+save.day=День
+
+# Настройки
+settings.title=Настройки
+settings.language=Язык
+settings.english=English
+settings.russian=Русский
+
+# Авторы
+credits.title=Авторы
+credits.back=Назад

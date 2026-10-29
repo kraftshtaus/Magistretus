@@ -1,0 +1,20 @@
+# Compiled executables
+*.exe
+*.dll
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Local development files
+.vscode/
+*.code-workspace
+
+# Local game saves
+saves/
+
+# Build directories
+build/
+bin/
+
